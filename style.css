@@ -17,3 +17,60 @@
     height: 200px;
     width: 200px;
 }
+#lee{
+    float: right;
+
+}
+body{
+    background-color: antiquewhite;
+}
+.caa{
+    border: 10px 10px 10px 10px red;
+    border-style: solid;
+    padding: 5px;
+}
+    #flip,#panel{
+        text-align: center;background-color: yellowgreen;border: 2px solid black;
+    }
+    #panel{
+        padding:50px;
+        display:none;
+    }
+
+    #flp,#pan{
+        text-align: center;padding: 5px;background-color: azure;border: 1px solid red;
+    }
+    #pan{
+        padding: 40px;
+    }
+    #click,#drop{
+        text-align: center;padding:3px;background-color: blueviolet;border: 1px solid black;
+    }
+    #drop{
+        padding: 50px;
+    }
+    #clic,#drp{
+        text-align: center;padding: 3px;background-color:violet;border: 1px solid black;
+    }
+    #drp{
+        padding: 50px;
+        display: none;
+    }
+    .important {
+        font-weight: bold;
+        font-size: xx-large;
+      }
+      
+      .blue {
+        color: blue;
+      }
+      .blu{
+        color: blue;
+      }
+      #l1{
+        height: 100px;
+        width: 300px;
+        padding: 10px;
+        margin: 3px;
+        border: 1px solid blue;
+        background-color: lightblue;
